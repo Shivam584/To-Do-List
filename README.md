@@ -1,6 +1,5 @@
 # TO-DO-LIST
 [![TO-DO-LIST](https://img.shields.io/badge/To_Do_List-v1.0.0-pink?labelColor=black&style=flat&link=https://shivam584.github.io/To-Do-List/)](https://shivam584.github.io/To-Do-List/)
-[![Discuss](https://img.shields.io/badge/Discuss-Community-orange?style=flat&link=https:#)](https:#)
 [![LICENSE](https://img.shields.io/badge/LICENSE-MIT-green?style=flat&link=https://github.com/Shivam584/To-Do-List/blob/main/LICENSE)](https://github.com/Shivam584/To-Do-List/blob/main/LICENSE)
 [![website](https://img.shields.io/badge/website-up-red?style=flat&link=https://shivam584.github.io/To-Do-List/)](https://shivam584.github.io/To-Do-List/)
 <p align="center">
@@ -62,7 +61,7 @@ As this is website you can use it by simply visiting this link<b> : </b>[https:/
 ### Features to add
 * I am also planning to multi-devices access of your workflow . By the help of this features once you add your workflow through a devices(Ex - phone) you can access the same through your various linked devices(Ex : laptop, desktop, tablet, etc. ).
 ### ⭐ Feature request
-* Any other feature you would like to suggest ,then please [open an issue](https://github.com/shivam584/To-Do-List/issues) for that.😊
+* Any other feature you would like to suggest ,then please [open an issue](https://github.com/Shivam584/To-Do-List/issues) for that.😊
 * Connect with me in [LinkedIn](https://www.linkedin.com/in/shivam-kumar-agrawal-6320121bb/). I did 💖 to hear how you feel using this website.
 ## Technologies and tools used
 * [Html](https://www.w3schools.com/html/)
@@ -72,6 +71,6 @@ As this is website you can use it by simply visiting this link<b> : </b>[https:/
 
 
 ## 🐛 Bug Reporting
-Feel free to [open an issue](https://github.com/shivam584/To-Do-List/issues) on github if you find any bug.
+Feel free to [open an issue](https://github.com/Shivam584/To-Do-List/issues) on github if you find any bug.
 ## 📜 License
 This software is open source, licensed under the [MIT License](/LICENSE).
