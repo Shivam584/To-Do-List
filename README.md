@@ -4,7 +4,7 @@
 [![LICENSE](https://img.shields.io/badge/LICENSE-MIT-green?style=flat&link=https://github.com/Shivam584/To-Do-List/blob/main/LICENSE)](https://github.com/Shivam584/To-Do-List/blob/main/LICENSE)
 [![website](https://img.shields.io/badge/website-up-red?style=flat&link=https://shivam584.github.io/To-Do-List/)](https://shivam584.github.io/To-Do-List/)
 <p align="center">
-  <img width="370" src="MediaFiles/Screenshot (334).png">
+  <img width="100%" src="MediaFiles/Screenshot (334).png">
 </p>
 
 This is a highly responsive To-Do List website powered by HTML , CSS and Javascript that provides main features you'd expect from a worklist , such as record and arrange your working inventory.
