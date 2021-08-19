@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://fonts.googleapis.com/css2?family=Ubuntu:wght@500&display=swap" rel="stylesheet">
+    <title>List</title>
+   <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <header style="position: relative;">
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="add.html">To Add </a></li>
+                <li><a href="#" class="cur"> List</a></li>
+            </ul>
+        </nav>
+    </header>
+    <div class="form" style="display: none;">
+        <label for="todos-title">Title</label>
+        <input type="text" id="todos-title" class="margin">
+        <label for="Description">Description</label>
+        <textarea name="Description" id="Description" cols="50" rows="10" class="margin"></textarea>
+        <button class="btn" id="submitted">Add to the list </button>
+    </div>
+    <div class="list">
+        <table class="margin">
+            <thead>
+                <tr>
+                    <th>Serial No.</th>
+                    <th>Title</th>
+                    <th id="descpt">Description</th>
+                    <th>Action</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr></tr>
+            </tbody>
+        </table>
+    </div>
+</body>
+<footer style="position: absolute;">
+    <p > Copyright &copy; of 2021-22</p>
+</footer>
+<script src="to-do-list.js"></script>
+</html>

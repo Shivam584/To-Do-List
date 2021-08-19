@@ -1,0 +1,175 @@
+
+body {
+    margin: 0;
+    padding: 0;
+    background-color: whitesmoke;
+}
+
+header {
+    background-color: aqua;
+    display: flex;
+    border-right: 20px solid black;
+    border-left: 20px solid black;
+    justify-content: center;
+}
+
+nav {
+    background-color: rgb(255, 255, 255);
+}
+
+nav ul {
+    border: 2px solid black;
+    list-style: none;
+    display: flex;
+    margin: 0;
+    padding: 0;
+}
+
+nav li {
+    margin: 0;
+    padding: 1em;
+
+}
+
+nav a {
+    text-decoration: none;
+    color: black;
+    font-size: 1.5rem;
+    font-family: 'Ubuntu', sans-serif;
+
+}
+
+nav a:hover {
+    border-bottom: 2px solid black;
+}
+
+.form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 5em;
+    font-size: 1.5rem;
+    font-family: 'Ubuntu', sans-serif;
+    background-color: wheat;
+    margin: 5em auto;
+    width: 45%;
+    padding: 3em;
+    border-radius: 10px;
+    box-shadow: 2em 2em black;
+    position: relative;
+    z-index: 1;
+}
+
+.form::before {
+    content: '';
+    border: 4px double rgb(19, 19, 19);
+    position: absolute;
+    top: .51em;
+    bottom: .51em;
+    left: .51em;
+    right: .51em;
+    border-radius: 4px;
+    z-index: -1;
+}
+
+button {
+    margin: 0.5em 0;
+    font-family: 'Ubuntu', sans-serif;
+    padding: 0.5em;
+    border-radius: 2px;
+    background-color: lightskyblue;
+    border: none;
+}
+
+.btn:hover {
+    background-color: rgb(3, 134, 216);
+    color: whitesmoke;
+}
+
+.dele{
+    margin: 0.5em 0;
+    font-family: 'Ubuntu', sans-serif;
+    padding: 0.5em;
+    border-radius: 10px;
+    border: none;
+    background-color : rgba(255,0,0,0.6) ;
+    color: rgb(247, 234, 220);
+}
+.dele:hover{
+    background-color : rgba(255,0,0,1) ;
+    color: whitesmoke;
+}
+.margin {
+    margin-bottom: 1.5em;
+}
+label {
+    margin-bottom: 0.5em;
+}
+
+#todos-title,
+textarea {
+    width: 75%;
+}
+
+.list {
+    width: 70%;
+    margin: 1.5em auto;
+    text-align: center;
+}
+
+table {
+    width: 100%;
+    background-color: blanchedalmond;
+    padding-top: 1em;
+    border: 2px solid brown;
+
+}
+
+footer,
+p {
+    background-color: cadetblue;
+    margin: 0;
+    padding: 0.5em;
+    font-weight: 900;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    
+}
+.sSig{
+color: rgb(252, 0, 0);
+background-color: rgb(245, 238, 238);
+text-align: center;
+margin: 0.5em auto;
+}
+#descpt {
+    width: 50%;
+}
+@media screen and (max-width : 500px) {
+    nav{
+        background-color: aqua;
+    }
+    header{
+        background-color:  rgb(255, 255, 255);
+    }
+    #todos-title,
+textarea {
+    width: 130%;
+}
+.list{
+    width: 100%;
+}
+.sSig{
+    font-size: 0.8rem;
+}
+}
+@media (max-height: 800px) {
+    footer,
+p {
+    position: inherit;
+}
+}
+.cur{
+    border-bottom: 2px solid black;
+}
