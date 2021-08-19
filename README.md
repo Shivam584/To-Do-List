@@ -12,7 +12,7 @@ This is a highly responsive To-Do List website powered by HTML , CSS and Javascr
 ## Table of Contents
 * [Introduction](https://github.com/shivam584/To-Do-List#introduction)
 * [Screenshots](https://github.com/shivam584/To-Do-List#screenshots)
-* [How to access ?](https://github.com/shivam584/To-Do-List#How-to-access)
+* [How to access](https://github.com/shivam584/To-Do-List#How-to-access)
 * [Features](https://github.com/shivam584/To-Do-List#-features)
   * [Current Features](https://github.com/shivam584/To-Do-List#current-features)
   * [Features to add](https://github.com/shivam584/To-Do-List#features-to-add)
