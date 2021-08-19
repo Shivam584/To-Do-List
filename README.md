@@ -1,5 +1,5 @@
 # TO-DO-LIST
-[![TO-DO-LIST](https://img.shields.io/badge/To_Do_List-v1.0.0-pink?labelColor=black&style=flat&link=https:#/)](https:#)
+[![TO-DO-LIST](https://img.shields.io/badge/To_Do_List-v1.0.0-pink?labelColor=black&style=flat&link=https://shivam584.github.io/To-Do-List/)](https://shivam584.github.io/To-Do-List/)
 [![Discuss](https://img.shields.io/badge/Discuss-Community-orange?style=flat&link=https:#)](https:#)
 [![LICENSE](https://img.shields.io/badge/LICENSE-MIT-green?style=flat&link=https://github.com/shivam584/To-Do-List/LICENSE)](https:https://github.com/shivam584/To-Do-List/LICENSE)
 [![website](https://img.shields.io/badge/website-up-red?style=flat&link=https://shivam584.github.io/To-Do-List/)](https://shivam584.github.io/To-Do-List/)
@@ -12,7 +12,7 @@ This is a highly responsive To-Do List website powered by HTML , CSS and Javascr
 ## Table of Contents
 * [Introduction](https://github.com/shivam584/To-Do-List#introduction)
 * [Screenshots](https://github.com/shivam584/To-Do-List#screenshots)
-* [How to access?](https://github.com/shivam584/To-Do-List#How-to-access)
+* [How to access?](https://github.com/shivam584/To-Do-List#How-to-access-?)
 * [Features](https://github.com/shivam584/To-Do-List#-features)
   * [Current Features](https://github.com/shivam584/To-Do-List#current-features)
   * [Features to add](https://github.com/shivam584/To-Do-List#features-to-add)
@@ -44,10 +44,10 @@ This is a day to day useful listing website to manage your workflow ,it records 
 </p>
 
 ## How to access ?
-As this is website you can use it by simply visiting this link<b> : </b>[https:#](https:#).<br><br>
+As this is website you can use it by simply visiting this link<b> : </b>[https://shivam584.github.io/To-Do-List/](https://shivam584.github.io/To-Do-List/).<br><br>
  But as a developer you might be interested to work on it or see it running in your local system. For that just have to clone this repository by
 
-        git clone [ url ]
+        git clone https://shivam584.github.io/To-Do-List/
 
 ## 🚀 Features
 ### Current Features
