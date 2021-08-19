@@ -1,7 +1,7 @@
 # TO-DO-LIST
 [![TO-DO-LIST](https://img.shields.io/badge/To_Do_List-v1.0.0-pink?labelColor=black&style=flat&link=https://shivam584.github.io/To-Do-List/)](https://shivam584.github.io/To-Do-List/)
 [![Discuss](https://img.shields.io/badge/Discuss-Community-orange?style=flat&link=https:#)](https:#)
-[![LICENSE](https://img.shields.io/badge/LICENSE-MIT-green?style=flat&link=https://github.com/shivam584/To-Do-List/LICENSE)](https:https://github.com/shivam584/To-Do-List/LICENSE)
+[![LICENSE](https://img.shields.io/badge/LICENSE-MIT-green?style=flat&link=https://github.com/Shivam584/To-Do-List/blob/main/LICENSE)](https://github.com/Shivam584/To-Do-List/blob/main/LICENSE)
 [![website](https://img.shields.io/badge/website-up-red?style=flat&link=https://shivam584.github.io/To-Do-List/)](https://shivam584.github.io/To-Do-List/)
 <p align="center">
   <img width="370" src="MediaFiles/Screenshot (334).png">
@@ -27,20 +27,20 @@ This is a day to day useful listing website to manage your workflow ,it records 
 
 ## Screenshots
 <p float="left" align="center">
-  <img src="MediaFiles/Screenshot (335).png" width="200" />
-  <img src="MediaFiles/Screenshot (336).png" width="200" /> 
+  <img src="MediaFiles/Screenshot (335).png" width="300" />
+  <img src="MediaFiles/Screenshot (336).png" width="300" /> 
 </p>
 <p float="left" align="center">
-  <img src="MediaFiles/Screenshot (337).png" width="200" />
-  <img src="MediaFiles/Screenshot (338).png" width="200" /> 
+  <img src="MediaFiles/Screenshot (337).png" width="300" />
+  <img src="MediaFiles/Screenshot (338).png" width="300" /> 
 </p>
 <p float="left" align="center">
-  <img src="MediaFiles/Screenshot (339).png" width="200" />
-  <img src="MediaFiles/Screenshot (340).png" width="200" /> 
+  <img src="MediaFiles/Screenshot (339).png" width="300" />
+  <img src="MediaFiles/Screenshot (340).png" width="300" /> 
 </p>
 <p float="left" align="center">
-  <img src="MediaFiles/Screenshot (341).png" width="200" />
-  <img src="MediaFiles/Screenshot (342).png" width="200" /> 
+  <img src="MediaFiles/Screenshot (341).png" width="300" />
+  <img src="MediaFiles/Screenshot (342).png" width="300" /> 
 </p>
 
 ## How to access
