@@ -7,7 +7,49 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link href="https://fonts.googleapis.com/css2?family=Ubuntu:wght@500&display=swap" rel="stylesheet">
     <title>To-ADD</title>
-   <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="style.css">
+    <style>
+.btn1{
+    display: inline-block;
+font-size: 0.9rem;
+width: 170px;
+padding: 0.9em;
+box-shadow: 0 5px 25px rgba(0, 0, 0, 0.25);
+text-decoration: none;
+position: relative;
+border-radius: 10px;
+}
+.btn1 span{
+    position: absolute;
+    top: 0;
+    left: 0;
+height: 100%;
+width: 100%;    
+    color: white;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    font-family:Arial, Helvetica, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+    font-weight: 600;
+    border-radius: 4px;
+}
+.btn1 span:nth-child(2)
+{
+    color: #6c4ba5;
+background-color: white;
+transition: .2s;
+clip-path: polygon(53% 0, 34% 49%, 56% 100%, 0 100%, 0 51%, 0 0);
+}
+.btn1 span:nth-child(2):hover{
+    clip-path: polygon(100% 0, 100% 52%, 100% 100%, 0 100%, 0 58%, 0 0);
+}
+.btn1 span:nth-child(1):hover ~span:nth-child(2){
+    clip-path: polygon(0 0, 0 58%, 0 100%, 0 100%, 0 58%, 0 0);
+}
+    </style>
 </head>
 
 <body>
@@ -24,10 +66,14 @@
         <label for="todos-title">Title</label>
         <input type="text" id="todos-title" class="margin" placeholder="Enter Title here">
         <label for="Description">Description</label>
-        <textarea name="Description" id="Description" cols="50" rows="10" class="margin" placeholder="Enter Description here"></textarea>
-        <button class="btn" id="submitted">Add to the list </button>
+        <textarea name="Description" id="Description" cols="50" rows="10" class="margin"
+            placeholder="Enter Description here"></textarea>
+        <button class="btn1" id="submitted">
+            <span style="background-color: gray;"> Add to the list </span>
+            <span> Add to the list </span>
+        </button>
     </div>
-    <div class="list" style="display: none;" >
+    <div class="list" style="display: none;">
         <table class="margin">
             <thead>
                 <tr>
@@ -43,8 +89,10 @@
         </table>
     </div>
     <footer>
-        <p><a href="https://github.com/Shivam584/To-Do-List/blob/main/LICENSE" style="text-decoration : none;color : black; "> Copyright &copy; of 2021-22</a></p>
+        <p><a href="https://github.com/Shivam584/To-Do-List/blob/main/LICENSE"
+                style="text-decoration : none;color : black; "> Copyright &copy; of 2021-22</a></p>
     </footer>
 </body>
 <script src="to-do-list.js"></script>
+
 </html>
