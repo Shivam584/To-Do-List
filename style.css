@@ -52,7 +52,8 @@ nav a:hover {
     font-family: 'Ubuntu', sans-serif;
     background-color: wheat;
     margin: 5em auto;
-    width: 45%;
+    width: 50%;
+    height: 100%;
     padding: 3em;
     border-radius: 10px;
     box-shadow: 2em 2em black;
@@ -142,6 +143,8 @@ color: rgb(252, 0, 0);
 background-color: rgb(245, 238, 238);
 text-align: center;
 margin: 0.5em auto;
+width: 80%;
+z-index: -1111;
 }
 #descpt {
     width: 50%;
